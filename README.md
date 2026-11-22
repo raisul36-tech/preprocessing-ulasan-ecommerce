@@ -1,7 +1,7 @@
 # Analisis Preprocessing Ulasan E-commerce
 
-**Nama:** [ISI NAMA LENGKAP]  
-**NIM:** [ISI NIM]  
+**Nama:** Raisul Ambia 
+**NIM:** 25146005 
 
 ## Deskripsi
 Proyek analisis dataset ulasan produk e-commerce berbahasa Indonesia untuk melihat distribusi sentimen dan menerapkan preprocessing teks: case folding, cleaning, tokenisasi, stopword removal, dan stemming.
